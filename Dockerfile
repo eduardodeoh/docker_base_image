@@ -3,7 +3,7 @@
 # VERSION               0.0.1
 
 FROM     ubuntu:14.04
-MAINTAINER Eduardo do Oliveira Hernandes "eduardodeoh@gmail.com"
+MAINTAINER Eduardo de Oliveira Hernandes "eduardodeoh@gmail.com"
 
 # make sure the package repository is up to date
 RUN apt-get update
